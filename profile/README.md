@@ -1,6 +1,6 @@
 <!-- Organization Logo -->
 <p align="center">
-  <img src="https://github.com/YVtils/.github/raw/main/assets/logo.png" alt="YVtils Logo" width="150" />
+  <img src="https://github.com/YVtils/.github/raw/main/assets/yvtils_logo.png" alt="YVtils Logo" width="150" />
 </p>
 
 <h1 align="center">Welcome to YVtils 👋</h1>
@@ -74,5 +74,5 @@ Join our community or get in touch:
 ---
 
 <p align="center">
-  <img src="https://github.com/YVtils/.github/raw/main/assets/banner.png" alt="YVtils Banner" />
+  <img src="https://github.com/YVtils/.github/raw/main/assets/yvtils_banner.png" alt="YVtils Banner" />
 </p>
