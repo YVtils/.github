@@ -6,60 +6,70 @@
 <h1 align="center">Welcome to YVtils 👋</h1>
 
 <p align="center">
-  <em>Empowering developers with elegant, efficient, and extensible tools.</em>
+  <em>Enhancing Minecraft servers with modular, open-source plugins.</em>
+</p>
+
+<p align="center">
+  <a href="https://yvtils.net"><strong>🌐 Visit our website →</strong></a>
 </p>
 
 ---
 
 ## 🔧 About Us
 
-**YVtils** is a collective of passionate developers dedicated to crafting high-quality utilities and libraries that streamline development workflows. Our mission is to provide tools that are:
+**YVtils** is a collective of developers dedicated to crafting high-quality plugins for Minecraft servers. Our plugins are built with a focus on:
 
-- **Modular**: Easy to integrate and extend.
-- **Performant**: Optimized for speed and efficiency.
-- **Well-Documented**: Comprehensive guides and examples.
-- **Open Source**: Built with the community, for the community.
-
----
-
-## 🚀 Featured Projects
-
-Here are some of our standout repositories:
-
-Explore all our projects in the [Repositories](https://github.com/YVtils?tab=repositories) section.
+- 🧩 **Modularity** – Lightweight, plugin-based architecture
+- ⚡ **Performance** – Optimized code for a lag-free experience
+- 📚 **Documentation** – Developer and admin-friendly documentation
+- 🤝 **Community** – Fully open source and welcoming contributions
 
 ---
 
-## 📈 GitHub Stats
+## 🌟 Featured Project: YVtils Collection
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YVtils&show_icons=true&theme=default" alt="YVtils GitHub Stats" />
-</p>
+🎉 **[YVtils Collection](https://github.com/YVtils/YVtils-Collection)** is our new flagship plugin that unifies all core YVtils features into one repository. It provides:
+
+- 🔄 Easier updates and maintenance
+- 🧪 Centralized testing and issue tracking
+- ⚙️ Simplified configuration for server admins
+- 🔌 Modular design with built-in and optional features
+
+> If you're new to YVtils, **start here**.
+
+---
+
+## 🧰 Other Projects
+
+While YVtils Collection is our main plugin, some specialized modules and legacy plugins remain available:
+
+- [**YVtils-SMP**](https://github.com/YVtils/YVtils-SMP) – Vanilla+ experience with chat formatting, Discord sync, and more
+- [**YVtils-DC**](https://github.com/YVtils/YVtils-DC) – Discord-Minecraft integration module
+- [**YVtils-MultiMine**](https://github.com/YVtils/YVtils-MultiMine) – Tree felling & vein mining combined
+- [**yvtils-docs**](https://github.com/YVtils/yvtils-docs) – Full documentation site and code references
 
 ---
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! To get started:
+We love contributions from the community! To get started:
 
 1. Fork the repository you're interested in.
-2. Create a new branch: `git checkout -b feature/your-feature-name`.
-3. Make your changes and commit them: `git commit -m 'Add your feature'`.
-4. Push to the branch: `git push origin feature/your-feature-name`.
-5. Open a pull request.
+2. Create a new branch: `git checkout -b feature/my-feature`
+3. Commit your changes: `git commit -m 'Add feature: my-feature'`
+4. Push to GitHub and open a pull request
 
-Please refer to our [CONTRIBUTING.md](https://github.com/YVtils/.github/blob/main/CONTRIBUTING.md) for detailed guidelines.
+See our [CONTRIBUTING.md](https://github.com/YVtils/.github/blob/main/CONTRIBUTING.md) for full guidelines.
 
 ---
 
 ## 📬 Connect with Us
 
-Stay updated and join our community:
+Join our community or get in touch:
 
-- 📧 Email: [contact@yvtils.net](mailto:contact@yvtils.net)
-- 🌐 Website: [https://yvtils.dev](https://yvtils.net)
-- 🐦 Twitter: [@YVtils](https://twitter.com/WolfiiYV)
+- 🌐 Website: [yvtils.net](https://yvtils.net)
 - 💬 Discord: [Join our Discord](https://yvtils.net/yvtils/support)
+- 📧 Email: [contact@yvtils.net](mailto:contact@yvtils.net)
 
 ---
 
