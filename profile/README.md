@@ -28,7 +28,7 @@
 
 ## 🌟 Featured Project: YVtils Collection
 
-🎉 **[YVtils Collection](https://github.com/YVtils/YVtils-Collection)** is our new flagship plugin that unifies all core YVtils features into one repository. It provides:
+🎉 **[YVtils Collection](https://github.com/YVtils/yvtils_collection)** is our new flagship plugin that unifies all core YVtils features into one repository. It provides:
 
 - 🔄 Easier updates and maintenance
 - 🧪 Centralized testing and issue tracking
